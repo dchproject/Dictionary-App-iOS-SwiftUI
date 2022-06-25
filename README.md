@@ -12,3 +12,6 @@
 ----------------
 
 This application provides maximum convenience when adding, updating, deleting words.
+
+## License
+Dictionary-App-iOS-SwiftUI is licensed under the MIT License, please see the [LICENSE](LICENSE) file.
