@@ -4,8 +4,7 @@
 
 <span align="center">
 
-[![iOS](https://img.shields.io/badge/platform-ios-blueviolet)]
-[![GitHub license](https://raw.githubusercontent.com/dchproject/Dictionary-App-iOS-SwiftUI/main/LICENSE)]
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/dchproject/Dictionary-App-iOS-SwiftUI/main/LICENSE)
   
 </span>
 
